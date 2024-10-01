@@ -2,6 +2,7 @@ package com.lth.controller;
 
 
 import com.lth.pojo.Category;
+import com.lth.pojo.PageBean;
 import com.lth.pojo.Result;
 import com.lth.service.CategoryService;
 import lombok.extern.slf4j.Slf4j;
